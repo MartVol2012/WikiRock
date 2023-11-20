@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.A1{
+  padding-left: 50px;
+   padding-right: 0px;
+  
+}
+.img{
+  float:right;
+  padding-left: 15px;
+  
+}
+.img1{
+float:right;
+padding-left: 15px;
+}
+
+body{
+  background-color: #ffefc2;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.img2{
+float:right;
+padding-left: 15px;
+}
+.img3{
+height: 200px;
+}
+.img4{
+  display: flex;
+  align-items: center;
+}
+.pon{
+  background-color: rosybrown;
+  width: 50px;
+  margin:auto;
+  font-size: 20px;
+  text-align: center;
+  border: saddlebrown 5px solid;
+}
